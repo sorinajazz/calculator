@@ -1,1 +1,3 @@
+permalink: calculator.html
+
 # calculator
